@@ -1,0 +1,9 @@
+# path -> credentials
+GMAIL_CREDENTIALS = {
+  "some-random-secure-key" => {
+    access_token: "",
+    refresh_token: "",
+    client_id: "",
+    client_secret: "",
+  }
+}
